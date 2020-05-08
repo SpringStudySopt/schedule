@@ -12,3 +12,6 @@
 6/12 | 우리만의 기획경선~!! 앱잼 끝나고 할 프로젝트 아이디어 발표 | 
 6/19 ~ 7/17 | APPJAM |
 7/24 |  |
+
+
+* IntelliJ, MySQL Workbench, Postman 설치
